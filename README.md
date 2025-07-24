@@ -1,6 +1,6 @@
 # Urdu-LLM
 
-This project demonstrates running the [Alif-1.0-8B-Instruct](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) Urdu language model locally with GPU support and a Gradio chat interface.
+This urdu-llm notebook demonstrates running the [Alif-1.0-8B-Instruct](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) Urdu language model locally with GPU support and a Gradio chat interface.
 
 ## Features
 
