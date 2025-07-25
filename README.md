@@ -19,4 +19,4 @@ Urdu-LLM is a toolkit for building and running conversational AI chatbots that c
 
 ---
 
-**Note:** This project is intended for research, educational, and non-commercial use. For more information, please refer to the [license](LICENSE) and [contributing](docs\contributing.md) guidelines.
+**Note:** This project is intended for research, educational, and non-commercial use. For more information, please refer to the [license](LICENSE) and [contributing](docs/contributing.md) guidelines.
