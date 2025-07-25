@@ -1,31 +1,22 @@
 # Urdu-LLM
 
-This urdu-llm notebook demonstrates running the [Alif-1.0-8B-Instruct](https://huggingface.co/large-traversaal/Alif-1.0-8B-Instruct) Urdu language model locally with GPU support and a Gradio chat interface.
+Urdu-LLM is a toolkit for building and running conversational AI chatbots that communicate exclusively in Urdu. It leverages state-of-the-art large language models and provides an interactive web-based interface for natural, real-time conversations. The system ensures all responses are generated in authentic Urdu script, regardless of the user's input language.
 
-## Features
+## Key Features
 
-- Loads Alif-1.0-8B-Instruct with 4-bit quantization for efficient inference.
-- Interactive Urdu chatbot UI using Gradio.
-- Supports conversation history and streaming responses.
+- **Urdu-Only Responses:** All chatbot replies are strictly in Urdu script, promoting language preservation and accessibility.
+- **Conversational Memory:** Maintains chat history for context-aware, coherent interactions.
+- **Modern LLM Integration:** Utilizes advanced language models for high-quality, contextually relevant answers.
+- **User-Friendly Interface:** Offers an intuitive chat experience suitable for both casual users and educational purposes.
+- **Customizable & Extendable:** Designed to be adaptable for various Urdu conversational AI applications, including education, customer support, and research.
 
-## Quickstart
+## Use Cases
 
-1. **Install dependencies:**
-    ```sh
-    pip install transformers gradio bitsandbytes
-    ```
-
-2. **Run the notebook:**
-    - Open `urdu-llm.ipynb` and execute all cells.
-
-3. **Chat in Urdu:**
-    - Access the Gradio interface to interact with the model.
-
-## Example Prompts
-
-- شہر کراچی کی کیا اہمیت ہے؟
-- صحت مند رہنے کے لئے پانچ تجاویز دیں。
-- پاکستان کی تاریخ پر ایک مختصر مضمون لکھیں۔
+- Educational tools for Urdu language learners.
+- Customer service bots for Urdu-speaking audiences.
+- Research in Urdu natural language processing and conversational AI.
+- General-purpose Urdu virtual assistants.
 
 ---
-Model and code are for research and educational
+
+**Note:** This project is intended for research, educational, and non-commercial use. For more information, please refer to the [license](LICENSE) and [contributing](docs\contributing.md) guidelines.
